@@ -67,7 +67,7 @@ img {
 }
 
 .gNav__menuItem {
-  flex: 1 0 25%;
+  flex: 1 0 20%;
   border-left: 1px solid #99f;
 
   &:first-child {
